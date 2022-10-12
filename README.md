@@ -5,7 +5,7 @@ A final version of programme of Team_BlackStar for ustc_robogame_2022 competitio
 
 -------
 
-##队伍信息
+## 队伍信息
 
 竞技组主题: 冰壶机器人;
 
@@ -17,8 +17,6 @@ A final version of programme of Team_BlackStar for ustc_robogame_2022 competitio
 * @Swayee2022(https://github.com/Deagle-PrintStream)
 * @stubborncake(https://github.com/stubborncake)
 * @long-knight(https://github.com/long-knight)
-
---------
 
 ## 审核成绩排名
 
@@ -35,8 +33,6 @@ A final version of programme of Team_BlackStar for ustc_robogame_2022 competitio
 
 **计划书的排名名次为个人回忆，可能不准确
 
-------
-
 ## 规则简介
 
 1. 自制机器人，使得完成巡线，识别冰壶，取冰壶，放置冰壶，推冰壶的操作。
@@ -50,6 +46,5 @@ A final version of programme of Team_BlackStar for ustc_robogame_2022 competitio
 
 场地简图：
 
-![robogame map](https://user-images.githubusercontent.com/98569480/195235274-7838abe4-1a29-4e22-a4e5-f9cdc654239b.jpg)
-
+![robogame map](https://user-images.githubusercontent.com/98569480/195236585-e8b77270-1860-4be7-a639-e36acf74054c.jpg)
 
