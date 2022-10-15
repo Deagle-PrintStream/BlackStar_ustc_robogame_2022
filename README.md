@@ -9,7 +9,15 @@ A final version of programme of Team_BlackStar for ustc_robogame_2022 competitio
 
 竞技组主题: 冰壶机器人;
 
-参赛队伍：黑星队;
+参赛队名称：黑星队;
+
+参赛队队徽：
+
+![logo1](https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022/blob/main/reference/pictures/blackstar.jpg)
+
+对标拟人形象：
+
+![logo waifu](https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022/blob/main/reference/pictures/blackstar_novelAI_waifu2x_1.png)
 
 队伍编号：17;
 
@@ -20,18 +28,18 @@ A final version of programme of Team_BlackStar for ustc_robogame_2022 competitio
 
 ## 审核成绩排名
 
-|  流程 | 审核日期  | 名次  | 参与队数* |
+|  流程 | 审核日期  | 名次  | 参与队数 |
 | :--:  | :---  | :--:  | :--:  |
-| 计划书 | 2022.5.15 |  41** |  46  |
+| 计划书 | 2022.5.15 |  43 |  46  |
 | 一审   | 2022.7.28 |  24 |  44  |
 | 二审 | 2022.9.16 |  21 |  42  |
 | 三审 | 2022.10.5 |  9 |  30  |
-| 预赛 | 2022.10.15 |  ? |  30  |
-| 决赛 | 2022.10.16 |  ? |  8  |
+| 预赛 | 2022.10.22 |  ? |  30  |
+| 决赛 | 2022.10.23 |  ? |  8  |
 
-*比赛过程中持续有退赛的，队伍数量逐渐边少
+*note1: 比赛过程中持续有退赛的，队伍数量逐渐边少*
 
-**计划书的排名名次为个人回忆，可能不准确
+*note2: 最终决赛时间由于过程大部分队伍进度较慢，故延期一周*
 
 ## 规则简介
 
@@ -46,5 +54,5 @@ A final version of programme of Team_BlackStar for ustc_robogame_2022 competitio
 
 场地简图：
 
-![robogame map](https://user-images.githubusercontent.com/98569480/195236585-e8b77270-1860-4be7-a639-e36acf74054c.jpg)
+![robogame map](https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022/blob/main/reference/pictures/robogame%20map.jpg)
 
