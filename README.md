@@ -11,13 +11,11 @@ A final version of programme of Team_BlackStar for ustc_robogame_2022 competitio
 
 参赛队名称：黑星队;
 
-参赛队队徽：
+参赛队队徽(@long-knight绘制)：
+<div align="center"> <img src="https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022/blob/main/reference/pictures/blackstar.jpg" width = 300 height = 300 /> </div>
 
-![logo1](https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022/blob/main/reference/pictures/blackstar.jpg)
-
-对标拟人形象：
-
-![logo waifu](https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022/blob/main/reference/pictures/blackstar_novelAI_waifu2x_1.png)
+队标拟人形象(novelAI生成)：
+<div align="center"> <img src="https://github.com/Deagle-PrintStream/BlackStar_ustc_robogame_2022/blob/main/reference/pictures/blackstar_novelAI_waifu2x_1.png" width = 300 height = 300 /> </div>
 
 队伍编号：17;
 
@@ -34,12 +32,12 @@ A final version of programme of Team_BlackStar for ustc_robogame_2022 competitio
 | 一审   | 2022.7.28 |  24 |  44  |
 | 二审 | 2022.9.16 |  21 |  42  |
 | 三审 | 2022.10.5 |  9 |  30  |
-| 预赛 | 2022.10.22 |  ? |  30  |
-| 决赛 | 2022.10.23 |  ? |  8  |
+| 预赛 | 2022.10.29 |  ? |  30  |
+| 决赛 | 2022.10.30 |  ? |  16  |
 
-*note1: 比赛过程中持续有退赛的，队伍数量逐渐边少*
+*note1: 比赛过程中持续有退赛的队伍，队伍数量逐渐边少*
 
-*note2: 最终决赛时间由于过程大部分队伍进度较慢，故延期一周*
+*note2: 由于过程大部分队伍进度较慢，最终决赛时间延期一周*
 
 ## 规则简介
 
