@@ -1,7 +1,5 @@
 # BlackStar_ustc_robogame_2022
-A final version of programme of Team_BlackStar for ustc_robogame_2022 competition.
-
-预留一个位置给最终版本的工程文件。目前为空。
+A final version of Team_BlackStar for ustc_robogame_2022 competition.
 
 -------
 
@@ -32,14 +30,16 @@ A final version of programme of Team_BlackStar for ustc_robogame_2022 competitio
 | 一审   | 2022.7.28 |  24 |  44  |
 | 二审 | 2022.9.16 |  21 |  42  |
 | 三审 | 2022.10.5 |  9 |  30  |
-| 预赛 | 2022.11.24 |  ? |  28  |
-| 决赛 | 2022.10.30 |  ? |  16  |
+| 预赛 | 2022.11.26 |  9 |  28  |
+| 决赛 | 2022.10.30 |  - |  8  |
 
 *note1: 比赛过程中持续有退赛的队伍，队伍数量逐渐边少*
 
 *note2: 由于过程大部分队伍进度较慢，最终决赛时间延期一周*
 
 *note3: 由于疫情影响，原定的预赛日期延期，同时场地改为中区创新基地，无观众，仅直播展示*
+
+*note4: 16强进8强的比赛为积分赛，最终因一分的差值惜败于第九名的成绩，无缘决赛*
 
 ## 规则简介
 
