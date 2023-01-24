@@ -1,4 +1,7 @@
 # BlackStar_ustc_robogame_2022
+
+*TAGS: USTC, robogame, embedded design, cpp, 中科大, 嵌入式设计* 
+
 A final version of Team_BlackStar for ustc_robogame_2022 competition.
 
 -------
